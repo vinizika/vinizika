@@ -33,7 +33,7 @@
 <h2 align="center"> Languages </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,mysql,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,mysql,c,cpp,java" />
 </div>
 
 
