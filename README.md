@@ -9,7 +9,7 @@
 <h2 align="center">Brazilian Computer Science student at <a href="https://portal.fei.edu.br/">FEI</a></h2>
 <div align="center">
   <p>🔭 Currently working on <strong>university projects</strong> </p>
-  <p>🌱 Currently learning <strong>Java</strong> </p>
+  <p>🌱 Currently learning <strong>ASP .NET & C#</strong> </p>
 </div>
 <!-- Some important links (Email and LinkedIn)-->
 <h1 align="center"> 
